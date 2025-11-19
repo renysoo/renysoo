@@ -43,16 +43,11 @@ Sou um Engenheiro de Software em aprendizado e evolução. Atualmente **Product 
 ![Figma](https://img.shields.io/badge/Figma-333333?style=flat&logo=figma&logoColor=F24E1E)
 ![VS Code](https://img.shields.io/badge/VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-### Metodologias e Práticas
-
-* **Práticas:** Arquitetura de Sistemas, Debugging, Testes Unitários.
-* **Metodologias:** Agile, Scrum, Design Thinking.
-
 <br/>
 
-<a href="https://github.com/renysoo" title="Estatísticas do René">
+<!-- <a href="https://github.com/renysoo" title="Estatísticas do René">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renysoo&theme=dracula&show_icons=true" />
-</a>
+</a> -->
 <!-- <a href="https://github.com/renysoo" title="Linguagens mais usadas">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renysoo&layout=compact&theme=dracula" />
 </a> -->
